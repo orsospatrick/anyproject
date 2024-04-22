@@ -1,0 +1,3 @@
+Sitemap: https://anyprojectbv.com/sitemap.xml
+User-Agent: *
+Allow: /
